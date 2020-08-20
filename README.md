@@ -19,10 +19,6 @@ The generated README includes the following sections:
   * Description
   * Table of Contents
   * Installation
-  * Usage
-  * License
-  * Contributing
-  * Tests
   * Questions
 
 
