@@ -18,15 +18,6 @@ I WANT a README generator
 SO THAT can quickly create a professional README for a new project
 ```
 
-## Requirement
-The generated README includes the following sections: 
-
-  * Title
-  * Description
-  * Table of Contents
-  * Installation
-  * Questions
-
 
 ## Installation
 node index.js
